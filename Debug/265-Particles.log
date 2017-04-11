@@ -1,0 +1,33 @@
+﻿  ParticleSystem2.cpp
+c:\visual studio\265-particles\particlesystem2.h(74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(76): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(77): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(101): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(106): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Source.cpp
+c:\visual studio\265-particles\particlesystem.h(66): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem.h(25): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\visual studio\265-particles\particlesystem.h(75): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem.h(83): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(76): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(77): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(101): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(106): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\particlesystem2.h(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\visual studio\265-particles\source.cpp(9): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\visual studio\265-particles\source.cpp(10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  265-Particles.vcxproj -> C:\Visual Studio\265-Particles\Debug\265-Particles.exe
+  265-Particles.vcxproj -> C:\Visual Studio\265-Particles\Debug\265-Particles.pdb (Partial PDB)
